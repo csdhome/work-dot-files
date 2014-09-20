@@ -1,0 +1,15 @@
+[submodule "bash"]
+	path = bash
+	url = https://github.com/csdhome/work-dot-files-bash
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/csdhome/work-dot-files-tmux
+[submodule "vim"]
+	path = vim
+	url = https://github.com/csdhome/work-dot-files-vim
+[submodule "bin"]
+	path = bin
+	url = https://github.com/csdhome/work-dot-files-bin
+[submodule "git"]
+	path = git
+	url = https://github.com/csdhome/work-dot-files-git
